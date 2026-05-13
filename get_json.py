@@ -20,6 +20,7 @@ while True:
         "button",
         {"data-test": lambda x: x and "spotlight-result-product" in x}
     )
+    
 
     new_items = 0
 
